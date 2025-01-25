@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocya-dev)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kocya-dev&show_icons=true&theme=light)
+## 🌱 Skills
+
+<!-- icon list from https://arc.net/l/quote/zizyykfh -->
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,dotnet,js,ts,jest,nodejs,md,aws,github,windows,vscode,visualstudio" />
+<br>
+
+## 🏃‍♀️ Activities
+
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kocya-dev&theme=light&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocya-dev&theme=light&layout=compact" />
+</div>
