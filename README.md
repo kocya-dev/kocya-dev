@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ## 🏃‍♀️ Activities
 
-<div align="left"> 
-  
+<img alt="Top Langs" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kocya-dev&theme=default" />
+<div align="left">   
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-fast.vercel.app/api?username=kocya-dev&theme=light&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kocya-dev&theme=light&layout=compact" />
 </div>
